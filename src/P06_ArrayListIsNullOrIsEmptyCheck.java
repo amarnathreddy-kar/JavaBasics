@@ -8,7 +8,7 @@ public class P06_ArrayListIsNullOrIsEmptyCheck {
         Predicate<String> isBlank = String::isBlank;
         Predicate<String> isNullOrEmpty = isNull.or(isEmpty).or(isBlank);
 
-        Collection<String> strings = new ArrayList<>();
+        List<String> strings = new ArrayList<>();
         strings.add(null);
         strings.add("");
         strings.add("one");
@@ -23,6 +23,8 @@ public class P06_ArrayListIsNullOrIsEmptyCheck {
         strings.removeIf(isNullOrEmpty);
         System.out.println("filtered strings = " + strings);
 
+        Collections.sort(strings); //need to do a null check before sorting
+        System.out.println("after sorting: "+strings);
 
 
     }
