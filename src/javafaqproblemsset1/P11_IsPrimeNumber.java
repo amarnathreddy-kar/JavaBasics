@@ -1,4 +1,4 @@
-package javafaqproblems;
+package javafaqproblemsset1;
 
 //A prime number is always > 1
 //has only two factors i.e., 1 and itself

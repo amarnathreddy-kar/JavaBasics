@@ -1,4 +1,4 @@
-package javafaqproblems;
+package javafaqproblemsset1;
 
 public class P01_SwappingTwoNumbers {
 

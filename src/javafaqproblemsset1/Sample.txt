@@ -1,0 +1,5 @@
+Hello All, from a sample text file.
+Trying to read a text file with Java File reader and buffered reader.
+checking if the third line is working as expected!
+Thank you
+Cheers.

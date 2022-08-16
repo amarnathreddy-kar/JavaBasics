@@ -1,4 +1,4 @@
-package javafaqproblems;
+package javafaqproblemsset1;
 
 public class P07_CountNumberOfEvenOdd {
     public static void main(String[] args) {

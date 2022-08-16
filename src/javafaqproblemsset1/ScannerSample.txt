@@ -1,0 +1,3 @@
+Hello All, from a sample text file from the Scanner and File.
+Trying to read a text file with File IO and Scanner Class.
+Thank you

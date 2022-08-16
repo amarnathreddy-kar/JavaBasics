@@ -1,4 +1,4 @@
-package javafaqproblems;
+package javafaqproblemsset1;
 
 import java.util.Random;
 

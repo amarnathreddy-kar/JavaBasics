@@ -1,12 +1,11 @@
-package javafaqproblems;
+package javafaqproblemsset1;
 
-import java.util.Arrays;
 import java.util.HashSet;
 
 public class P19_DuplicateArrayElement {
     public static void main(String[] args) {
 
-        String arr[] = {"Java", "C", "C++", "Python", "JavaScript", "Flutter","Katlon"};
+        String arr[] = {"Java", "C", "C++", "Python", "JavaScript", "Flutter","Katlon", "Python"};
         //1. Using two for loop and flag assignment
     /*
         //1. comparing each element in an array

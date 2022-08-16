@@ -1,6 +1,4 @@
-package javafaqproblems;
-
-import java.util.Arrays;
+package javafaqproblemsset1;
 
 public class P20_LinearSearchInArray {
     public static void main(String[] args) {

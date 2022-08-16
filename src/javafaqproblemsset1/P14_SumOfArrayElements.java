@@ -1,10 +1,6 @@
-package javafaqproblems;
+package javafaqproblemsset1;
 
-import org.w3c.dom.ls.LSOutput;
-
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class P14_SumOfArrayElements {
     public static void main(String[] args) {
